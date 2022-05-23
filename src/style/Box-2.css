@@ -1,0 +1,42 @@
+.box-2{
+    display: flex;
+    flex-direction: column;
+}
+.box-2-text{
+    position: absolute;
+    width: 547px;
+    height: 96px;
+    left: calc(50% - 547px/2 + 1px);
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: 0.42px;
+    color: #0B2330;
+    margin-top: 189px;
+}
+
+.box2-img-1{
+    display: flex;
+    row-gap: 82px;
+    margin-top: 344px;
+    margin-left: 174px;
+    cursor: pointer;
+}
+.box2-img-2{
+    display: flex;
+    row-gap: 82px;
+    margin-top: 16px;
+    margin-left: 174px;
+    cursor: pointer;
+}
+
+.img1{
+    width: 153px;
+    height: 56px;
+    margin-left: 59px;
+
+
+}

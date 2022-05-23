@@ -1,0 +1,41 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    width: 1440px;
+    height: 83px;
+}
+.frame{
+    width: 104px;
+    height: 52px;
+    margin-top: 16px;
+    margin-left: 32px;
+}
+.header-text-left{
+    display: flex;
+    flex-direction: row;
+    column-gap: 40.44px;
+    margin-top: 28px;
+}
+.header-text-right{
+    display: flex;
+    flex-direction: row;
+    column-gap: 40.44px;
+    margin-top: 28px;
+}
+
+.header a{
+    text-decoration: none;
+    color: black;
+}
+
+.header-btn{
+    width: 163px;
+    height: 54px;
+    background: #0B2330;
+    border: 1px solid #0B2330;
+    border-radius: 4px;
+    color: white;
+    margin-top: -15px;
+    cursor: pointer;
+
+}
